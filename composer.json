@@ -1,0 +1,17 @@
+{
+    "name": "xcapa/login-signup",
+    "description": "simple signup and login page",
+    "authors": [
+        {
+            "name": "Xavi",
+            "email": "xcaparros@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {
+    }
+}
